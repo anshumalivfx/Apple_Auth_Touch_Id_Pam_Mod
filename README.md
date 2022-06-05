@@ -1,6 +1,6 @@
 # Apple Auth Touch Id Pam Modules
 
-## Repository Author:- Anshumali Karna 
+## Repository Owner:- Anshumali Karna 
 
 ## Notice:- 
 - ### Unmodified Code.  You may use, reproduce, display, perform, internally
